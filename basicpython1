@@ -1,0 +1,7 @@
+#INPUT A NUMBER,WORD,LETTER FROM THE USER AND PRINT IT 
+a=int(input("enter a number: "))
+b=input("enter a word:")
+c=input("enter a letter:")
+print(a)
+print(b)
+print(c)
